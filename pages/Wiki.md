@@ -1,14 +1,5 @@
-- # Contents
-- [[zsh]]
-- [[hexo]]
-- [[电暖器]]
-- [[Coffee]]
-- [[conventional commit]]
-- [[RSS]]
-- [[域名邮箱]]
-- [[树莓派4b]]
-- [[透明代理]]
-- [[VSCode 类型提示背景色]]
-- [[tlaplus vscode configuration]]
-- [[ArchLinux 镜像排序]]
+- This is my personal wiki page. I'll put some fragmentary notes, commands or configurations etc here.
 -
+- You can use `Cmd+k`/`Ctrl+k` to search keywords.
+-
+- Issue/discussion can be sent to https://github.com/waynexia/wiki. Thanks to [LogSeq](https://logseq.com/) for powering this site.

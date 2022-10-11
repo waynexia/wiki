@@ -226,6 +226,7 @@
  :feature/enable-journals? false
  :default-home {:page "Wiki"}
  :feature/enable-flashcards? false
+ :publishing/all-pages-public? true
 
  ;; Properties to exclude from having property pages
  ;; E.g.:property-pages/excludelist #{:duration :author}

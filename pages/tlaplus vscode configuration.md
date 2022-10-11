@@ -1,0 +1,4 @@
+- "tlaplus.tlc.modelChecker.options": "-coverage 1 -workers 16",
+- "tlaplus.java.options": "-Xmx16G"
+- "tlaplus.tlc.modelChecker.options": "-deadlock"
+-

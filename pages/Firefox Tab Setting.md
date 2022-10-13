@@ -1,0 +1,8 @@
+- Firefox's advance setting page: `about:config`
+- Two settings related to "New Tab Behavior"
+	- `browser.tabs.insertAfterCurrent`
+		- whether to insert unrelated tab next to the current one
+	- `browser.tabs.insertRelatedAfterCurrent`
+		- whether to insert related tab next to the current one
+- I set `insertAfterCurrent` to `false` and `insertRelatedAfterCurrent` to `true` to simulate Chrome's behavior
+-

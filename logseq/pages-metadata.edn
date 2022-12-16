@@ -22,6 +22,9 @@
  {:block/name "coffee",
   :block/created-at 1665490947350,
   :block/updated-at 1665490947350}
+ {:block/name "compile_command.json file for ccls",
+  :block/created-at 1666594251898,
+  :block/updated-at 1666594355119}
  {:block/name "contents",
   :block/created-at 1665490809868,
   :block/updated-at 1665490809868}

@@ -43,6 +43,9 @@
  {:block/name "firefox tab setting",
   :block/created-at 1665631486635,
   :block/updated-at 1665631729397}
+ {:block/name "git configurations",
+  :block/created-at 1671159605303,
+  :block/updated-at 1671159662254}
  {:block/name "hexo",
   :block/created-at 1665490947388,
   :block/updated-at 1665490947388}

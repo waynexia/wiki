@@ -1,0 +1,6 @@
+- https://usememos.com/
+- self-hosted 的速记软件
+- 托管在 fly.io 上，参考这个：https://github.com/hu3rror/memos-on-fly，不过没用 litestream
+	- 把 toml 里面的镜像替换到 `neosmemo/memos:latest` 就行了，不用什么别的环境变量
+-
+-

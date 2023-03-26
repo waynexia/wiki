@@ -64,6 +64,9 @@
  {:block/name "now",
   :block/created-at 1665490809868,
   :block/updated-at 1665490809868}
+ {:block/name "pageview analytics",
+  :block/created-at 1673004867873,
+  :block/updated-at 1673004883346}
  {:block/name "rss",
   :block/created-at 1665490947365,
   :block/updated-at 1665490947365}
